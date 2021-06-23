@@ -1,0 +1,415 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"f",
+				"fixed"
+			],
+			[
+				"a",
+				"absolute"
+			],
+			[
+				"d",
+				"div\tTag"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"c",
+				"content\tTag"
+			],
+			[
+				"php",
+				"phpinfo"
+			],
+			[
+				"edit",
+				"edit_item.php\t(panel.php)"
+			],
+			[
+				"e",
+				"echo\tPHP: echo '...'"
+			],
+			[
+				"user",
+				"user_item"
+			],
+			[
+				"bu",
+				"button_del\t(grid.css)"
+			],
+			[
+				"dele",
+				"delete.php"
+			],
+			[
+				"de",
+				"delete.php"
+			],
+			[
+				"cs",
+				"class\tAttr"
+			],
+			[
+				"item",
+				"item_value"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"name",
+				"name_magazine"
+			],
+			[
+				"li",
+				"link_button_4\t(view.css)"
+			],
+			[
+				"pro",
+				"profile_view.php"
+			],
+			[
+				"fra",
+				"frame"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"pic",
+				"picture_name"
+			],
+			[
+				"u",
+				"uppicture"
+			],
+			[
+				"frame",
+				"frame_map"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"w",
+				"break-word"
+			],
+			[
+				"wra",
+				"word-wrap"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"po",
+				"pointer"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"tra",
+				"transform"
+			],
+			[
+				"b",
+				"block"
+			],
+			[
+				"se",
+				"search_page.php\t(index.php)"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"fo",
+				"form\t(search_page.php)"
+			],
+			[
+				"ser",
+				"search_page.css\t(search_page.php)"
+			],
+			[
+				"sea",
+				"search_page.css\t(search_page.php)"
+			],
+			[
+				"link",
+				"link\tTag"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"lo",
+				"logged_user"
+			],
+			[
+				"lin",
+				"link_button_1\t(add.css)"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"na",
+				"navigation\t(index.css)"
+			],
+			[
+				"l",
+				"link_button\t(sign.css)"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 376.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 376.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/OpenServer/OSPanel/domains/lunafox/style/caustic.css",
+		"/E/OpenServer/OSPanel/domains/lunafox/admin/index.php",
+		"/E/OpenServer/OSPanel/domains/lunafox/index.php",
+		"/E/OpenServer/OSPanel/domains/lunafox/apr/index.php",
+		"/E/OpenServer/OSPanel/domains/lunafox/product/index.php",
+		"/E/OpenServer/OSPanel/domains/lunafox/sale/index.php",
+		"/E/OpenServer/OSPanel/domains/lunafox/part/apr/index.php",
+		"/E/OpenServer/OSPanel/domains/lunafox/aparation/index.php",
+		"/E/OpenServer/OSPanel/domains/lunafox/part/product/index.php",
+		"/E/OpenServer/OSPanel/domains/lunafox/part/sale/index.php",
+		"/E/OpenServer/OSPanel/domains/lunafox/part/content.php",
+		"/E/OpenServer/OSPanel/domains/lunafox/part/footer.php",
+		"/E/OpenServer/OSPanel/domains/lunafox/part/header.php",
+		"/E/OpenServer/OSPanel/domains/srctov/db/libs/rb.php",
+		"/E/OpenServer/OSPanel/domains/blink/magazine/function/edit_item.php",
+		"/E/OpenServer/OSPanel/domains/blink/magazine/function/delete.php",
+		"/C/Users/Bleezz/Desktop/blink/magazine/sign/sign_in.php",
+		"/E/OpenServer/OSPanel/domains/blink/magazine/panel.php",
+		"/C/Users/Bleezz/Desktop/homestead-7.3.0/src/Traits/GeneratesSlugs.php",
+		"/C/Users/Bleezz/Desktop/blink/magazine/add.php",
+		"/E/OpenServer/OSPanel/domains/blink/css/grid.css",
+		"/E/OpenServer/OSPanel/domains/blink/magazine/delete.php",
+		"/E/OpenServer/OSPanel/domains/blink/css/panel.css",
+		"/E/OpenServer/OSPanel/domains/blink/view.php",
+		"/E/OpenServer/OSPanel/domains/blink/index.php",
+		"/E/OpenServer/OSPanel/domains/blink/magazine/sign/sign_in.php",
+		"/E/OpenServer/OSPanel/domains/blink/magazine/profile_view.php",
+		"/E/OpenServer/OSPanel/domains/blink/css/view.css",
+		"/E/OpenServer/OSPanel/domains/blink/css/profile.css",
+		"/E/OpenServer/OSPanel/domains/blink/magazine/add.php",
+		"/E/OpenServer/OSPanel/domains/blink/css/add.css",
+		"/E/OpenServer/OSPanel/domains/blink/search_page.php",
+		"/E/OpenServer/OSPanel/domains/blink/magazine/sign/sign_up.php",
+		"/E/OpenServer/OSPanel/domains/blink/css/sign.css",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/E/OpenServer/OSPanel/domains/blink/js/geo.js",
+		"/E/OpenServer/OSPanel/domains/blink/js",
+		"/E/OpenServer/OSPanel/domains/blink/img/30080418.jpg",
+		"/E/OpenServer/OSPanel/domains/blink/css/search_page.css",
+		"/C/Users/Bleezz/Desktop/srctov/index.php",
+		"/E/OpenServer/OSPanel/domains/blink/css/index.css",
+		"/C/Program Files/Sublime/Data/Packages/AdvancedNewFile/AdvancedNewFile.sublime-settings",
+		"/E/OpenServer/OSPanel/domains/src.zip"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 48.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 275.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

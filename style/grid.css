@@ -1,0 +1,135 @@
+.products {
+	list-style: none;
+	margin: 0 -20px 0 0;
+	padding: 0;
+}
+
+.product-wrapper {
+	text-align: center;
+	display: block;
+	width: 100%;
+	float: left;
+	transition: width .2s;
+}
+
+.product {
+	min-height:300px;
+	max-height: 600px;
+	display: block;
+	border: 1px solid #F27852;
+	border-radius: 30px;
+	background: #fff;
+	margin: 0 20px 20px 0;
+	text-decoration: none;
+	color: #474747;
+}
+
+.product:hover {
+	transform: scale(1.03);
+	box-shadow: 0 0 20px 5px #F27852;
+}
+
+@media only screen and (min-width: 450px) {
+	.product-wrapper {
+		width: 50%;
+	}
+}
+
+@media only screen and (min-width: 768px) {
+	.product-wrapper {
+		width: 33.333%;
+	}
+}
+
+@media only screen and (min-width: 1000px) {
+	.product-wrapper {
+		width: 25%;
+	}
+	.product_wrapper:hover{
+    transform: none;
+    box-shadow: none;
+  }
+}
+
+.wrapper_img{
+	margin: 25px auto;
+	width: 55%;
+	height: auto;
+}
+.wrapper_img img{
+	border-radius: 13px;
+	width: 80%;
+	height: auto;
+}
+
+.lak_input{
+	border-radius: 30px;
+	color: white;
+	width: 130px;
+	height: 40px;
+	background-color:#ff471a;
+}
+.lak_input:hover{
+	background-color:#e62e00;
+}
+
+
+
+.hidden{
+	display: none;
+}
+
+.nog_alter{
+	border-top: 1px solid #ff471a;
+	border-radius: 0 0 22px 23px;
+	width: 100%;
+	height:70%;
+	margin-top: 10px;
+}
+.nog_alter img{
+	border-radius: 0 0 25px 25px;
+	width: 100%;
+	height: auto;
+}
+
+.bot_colum{
+	border-radius:0 50px  50px 0;
+	float: right;
+	text-align: center;
+	width: 300px;
+	height: 50px;
+	background-color: white;
+}
+
+select{
+	color: #ff471a;
+	-webkit-appearance: none;
+ 	-moz-appearance: none;
+     appearance: none;
+	border:3px solid #ff471a;
+	background-color: white;
+	text-align: center;
+	width: 150px;
+	height: 23px;
+	margin-top: 10px;
+}
+select:hover{
+	box-shadow:0 0 15px 5px #ff471a;
+}
+
+
+.go{
+	border: 1px solid #ff471a;
+	border-radius: 50%;
+	width: 30px;
+	height: 30px;
+	background-image: url(Search.gif);
+	background-size: cover;
+}
+.go:hover{
+	transform: scale(1.08);
+}
+
+.search_form{
+ margin-top: 4px;
+}
